@@ -40,3 +40,6 @@ setup.exe
 Bin/
 Obj/
 Src/Skyrim.Script/FreeScript.lib
+*.user
+*.suo
+Build
